@@ -7,7 +7,7 @@
   "FFlagFixGraphicsQuality": "True",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "DFFlagDebugPauseVoxelizer": "True",
-  "FFlagDebugSkyGray": "True",
+  "FFlagDebugSkyGray": "False",
   "DFFlagDebugPerfMode": "True",
   "FFlagFastGPULightCulling3": "True",
   "FFlagPreloadAllFonts": "True",
